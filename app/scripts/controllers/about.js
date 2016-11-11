@@ -89,37 +89,4 @@ angular.module('treeYoApp')
         ]
     }];
 
-    /*
-    {
-        'id': 2,
-        'title': 'node2',
-        'options' : [{id: 1, text: 'guest'},
-                     {id: 2, text: 'user'},
-                     {id: 3, text: 'customer'},
-                     {id: 4, text: 'admin'}],
-        'nodes': []
-    }];
-
-    $scope.dataNumber = [{
-        'id': 1,
-        'title': 'node1',
-        'nodes': [
-            {
-                'id': 11,
-                'title': 'node1.1',
-                'nodes': [
-                    {
-                        'id': 111,
-                        'title': 'node1.1.1',
-                        'nodes': []
-                    }
-                ]
-            }
-        ]
-    }, {
-        'id': 2,
-        'title': 'node2',
-        'nodes': []
-    }];
-    */
 });
